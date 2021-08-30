@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Super(dot)Mapper(dot)Original(at)the google's usual and free jee mail(dot)com!
-- ▶ https://www.youtube.com/channel/UC8qMDGwtzjmqTagqH1tsCvA
+- ▶ [YouTube](https://www.youtube.com/channel/UC8qMDGwtzjmqTagqH1tsCvA)
 
 <!---
 SuperMapper/SuperMapper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
